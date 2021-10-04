@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, Universidad Carlos III de Madrid, 2022 (expected) 
-                                       supervised by Carlos Velasco
 * M.S. in Economic Analysis, Universidad Carlos III de Madrid, 2018
 * B.S. in Mathematical Economics, Shanghai University of Finance andEconomics , 2016
 
@@ -29,8 +28,6 @@ Work experience
 Language
 ======
 * Chinese: native
-* English: fluent
-* Spanish: conversational 
 
 Publications
 ======
