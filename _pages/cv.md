@@ -15,6 +15,7 @@ Education
                                        supervised by Carlos Velasco
 * M.S. in Economic Analysis, Universidad Carlos III de Madrid, 2018
 * B.S. in Mathematical Economics, Shanghai University of Finance andEconomics , 2016
+
 Work experience
 ======
 * Summer 2015: 
