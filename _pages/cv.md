@@ -11,29 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Universidad Carlos III de Madrid, 2022 (expected) supervised by Carlos Velasco
+* Ph.D in Economics, Universidad Carlos III de Madrid, 2022 (expected) 
+                                       supervised by Carlos Velasco
 * M.S. in Economic Analysis, Universidad Carlos III de Madrid, 2018
 * B.S. in Mathematical Economics, Shanghai University of Finance andEconomics , 2016
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2015: 
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
 
 * Fall 2015: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
-Skills
+Language
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Chinese: native
+* English: fluent
+* Spanish: conversational 
 
 Publications
 ======
