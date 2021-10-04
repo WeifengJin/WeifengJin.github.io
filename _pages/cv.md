@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* Ph.D in Economics, Universidad Carlos III de Madrid, 2022 (expected) supervised by Carlos Velasco
+* M.S. in Economic Analysis, Universidad Carlos III de Madrid, 2018
+* B.S. in Mathematical Economics, Shanghai University of Finance andEconomics , 2016
 Work experience
 ======
 * Summer 2015: Research Assistant
