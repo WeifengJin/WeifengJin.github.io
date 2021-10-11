@@ -15,38 +15,22 @@ Education
 * M.S. in Economic Analysis, Universidad Carlos III de Madrid, 2018
 * B.S. in Mathematical Economics, Shanghai University of Finance and Economics, 2016
 
-Work experience
+  
+References
 ======
-* Summer 2015: 
-  * Github University
- 
+* Prof. Carlos Velasco (Advisor)
+  * Department of Economics
+  * Universidad Carlos III de Madrid
+  * Email: carlos.velasco@uc3m.es
 
-* Fall 2015: Research Assistant
-  * Github University
+* Prof. Miguel Angel Delgado 
+  * Department of Economics
+  * Universidad Carlos III de Madrid
+  * Email: delgado@est-econ.uc3m.es
 
-  
-Language
-======
-* Chinese: native
+* Prof. Juan Carlos Escanciano 
+  * Department of Economics
+  * Universidad Carlos III de Madrid
+  * Email: jescanci@eco.uc3m.es 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
