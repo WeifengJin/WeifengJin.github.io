@@ -9,6 +9,7 @@ redirect_from:
 ---
 I am currently a PhD candidate in economics at Universidad Carlos III de Madrid
 
-My research interest lies in time series.
+My research interest lies in time series econometrics.
  * Noncausal and noninvertible processs
- * Quantile autoregression models. 
+ * Quantile analysis.
+ * Forecasting 
