@@ -21,16 +21,16 @@ References
 * Prof. Carlos Velasco (Advisor)
   * Department of Economics
   * Universidad Carlos III de Madrid
-  * Email: carlos.velasco@uc3m.es
+  * Email: <a href="carlos.velasco@uc3m.es">"carlos.velasco@uc3m.es"</a>
 
 * Prof. Miguel Angel Delgado 
   * Department of Economics
   * Universidad Carlos III de Madrid
-  * Email: delgado@est-econ.uc3m.es
+  * Email: <a href="delgado@est-econ.uc3m.es">"delgado@est-econ.uc3m.es"</a>
 
 * Prof. Juan Carlos Escanciano 
   * Department of Economics
   * Universidad Carlos III de Madrid
-  * Email: jescanci@eco.uc3m.es 
+  * Email: <a href="jescanci@eco.uc3m.es ">"jescanci@eco.uc3m.es"</a>
 
 
