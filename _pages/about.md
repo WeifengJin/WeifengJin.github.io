@@ -13,3 +13,4 @@ My research interest lies in time series econometrics.
  * Noncausal and noninvertible processs
  * Quantile analysis.
  * Forecasting 
+You can find my <a href="https://drive.google.com/drive/u/0/folders/1WCpCrG9oDFhwCd9abeza80YTReWq997E">CV</a> here.
