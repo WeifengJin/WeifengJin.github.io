@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV <a href="https://drive.google.com/file/d/1syuuayIuv0SBxKgbos5Qhwxh4Ll4J0oS/view">here</a>.
+
+
 Education
 ======
 * Ph.D in Economics, Universidad Carlos III de Madrid, 2022 (expected) 
