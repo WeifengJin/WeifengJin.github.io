@@ -15,4 +15,4 @@ My research interest lies in time series econometrics.
  * Forecasting 
 
 
-You can find my <a href="https://drive.google.com/file/d/1syuuayIuv0SBxKgbos5Qhwxh4Ll4J0oS/view">CV</a> here.
+You can find my CV <a href="https://drive.google.com/file/d/1syuuayIuv0SBxKgbos5Qhwxh4Ll4J0oS/view">here</a>.
