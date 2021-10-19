@@ -18,6 +18,15 @@ Education
 * M.S. in Economic Analysis, Universidad Carlos III de Madrid, 2018
 * B.S. in Mathematical Economics, Shanghai University of Finance and Economics, 2016
 
+
+
+
+Presentations
+======
+* Annual PhD Workshop in Econometrics at Universidad Carlos III de Madrid, Spain, 2018-2021
+* ENTER Jamboree Workshop (Virtual), 2021
+* IXt Workshop in Time Series Econometrics at Universidad de Zaragoza, Spain, 2019
+
   
 References
 ======
