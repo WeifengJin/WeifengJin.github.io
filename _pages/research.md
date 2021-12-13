@@ -8,7 +8,7 @@ author_profile: true
 
 Working Papers
 -----
-* "Estimation of Time Series Models Using Generalized Spectral Distribution Function", 2021 (Job Market Paper)
+* "Estimation of Time Series Models Using Generalized Spectral Distribution Function", 2021 (Job Market Paper) <a href="hhttps://drive.google.com/drive/u/0/folders/1hQ36DWkgjmzuSa_WJZwOWwArADzeD4ZV">Latest draft</a>
   * Abstract: In this paper, we propose a novel estimation technique of general linear time series which are possibly non-invertible and non-causal based on a measure of dependence of residuals. We consider the generalized spectral cumulative function as a measure of dependence applied to residuals. The loss function is constructed by an L2 distance between the dependence measure in the unrestricted case and the conjectured one in the restricted case under the iid assumption. The information of dependence at all quantiles is used to achieve model identification. We show the consistency of the estimates without imposing conditions on higher order moments of innovations. The asymptotic distribution of the estimates is established by using a smoothed cumulative distribution function to approximate the indicator function due to non-differentiability of the original loss function. Finite sample properties are studied in Monte Carlo simulations. The methodology is illustrated by fitting daily trading volume of Microsoft stock by autoregressive models with noncausal representation.
 
 * "QAR-based Noncausality Test", 2021 
