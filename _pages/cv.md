@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV <a href="https://www.dropbox.com/s/xwhnw3tlk2x26jz/Weifeng_Jin_CV_English.pdf?dl=0">here</a>.
+You can find my CV <a href="https://drive.google.com/file/d/1Ut2z0li7OWGdVvN0Ii5gunlCErZBssyC/view?usp=sharing">here</a>.
 
 
 Education
