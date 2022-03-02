@@ -10,8 +10,8 @@ redirect_from:
 I am a PhD candidate in economics under the supervision of Carlos Velasco at Universidad Carlos III de Madrid. I am currently on the job market during the 2021/2022 academic year and will be available for virtual interviews at the EJME 2021 and at the ASSA 2022.   
 
 My research interest lies in time series econometrics.
- * Noncausal and noninvertible processs
- * Quantile analysis.
+ * Linear processes with nonlinear dynamics
+ * Quantile analysis
  * Forecasting 
 
 
