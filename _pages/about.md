@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in economics under the supervision of Carlos Velasco at Universidad Carlos III de Madrid. I am currently on the job market during the 2021/2022 academic year and will be available for virtual interviews at the EJME 2021 and at the ASSA 2022.   
+I am a PhD candidate in economics under the supervision of Carlos Velasco at Universidad Carlos III de Madrid. 
+
+I will being joining the Department of Econometrics, Statistics and Applied Economics of the Universitat de Barcelona School of
+Economics as a postdoctoral researcher in September, 2022.    
 
 My research interest lies in time series econometrics.
  * Linear processes with nonlinear dynamics
