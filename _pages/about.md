@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid. 
+I am a PhD candidate in Economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid. 
 
 I will being joining the Department of Econometrics, Statistics and Applied Economics of the Universitat de Barcelona School of
 Economics as a postdoctoral researcher in September, 2022.    
