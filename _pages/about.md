@@ -9,8 +9,8 @@ redirect_from:
 ---
 I am a PhD candidate in Economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid. 
 
-I will being joining the Department of Econometrics, Statistics and Applied Economics of the Universitat de Barcelona School of
-Economics as a postdoctoral researcher in September, 2022.    
+I will being joining the Department of Econometrics, Statistics and Applied Economics at the School of
+Economics at Universitat de Barcelona as a postdoctoral researcher in September, 2022.    
 
 My research interest lies in time series econometrics.
  * Linear processes with nonlinear dynamics
