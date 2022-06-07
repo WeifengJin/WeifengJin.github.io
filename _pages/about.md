@@ -13,7 +13,7 @@ I will being joining the Department of Econometrics, Statistics and Applied Econ
 Economics at Universitat de Barcelona as a postdoctoral researcher in September, 2022.    
 
 My research interest lies in time series econometrics.
- * Linear processes with nonlinear dynamics
+ * Linear and non-linear time series
  * Quantile analysis
  * Forecasting 
 
