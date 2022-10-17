@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV <a href="https://drive.google.com/file/d/1lEi316__6nvKnv-5XCUvBZk3t5Tg4MUz/view?usp=sharing">here</a>.
+You can find my CV <a href="https://drive.google.com/file/d/14ZK15IK5AXP56GVK4M6NGOAIGBflFIQ1/view?usp=sharing">here</a>.
 
 
 Education
@@ -21,15 +21,18 @@ Education
 
 
 
-Presentations
+Conferences and seminars
 ======
-* ENTER Seminar at Tilburg University, Netherlands, 2022
-* XIIt Workshop in Time Series Econometrics at Universidad de Zaragoza, Spain, 2022
-* 15th RGS Doctoral Conference (Virtual), Germany, 2022
-* DSE Winter School 2021 (Virtual, Delhi School of Economics joint with the Econometric Society), India, 2021
-* Annual PhD Workshop in Econometrics at Universidad Carlos III de Madrid, Spain, 2018-2021
-* ENTER Jamboree Workshop (Virtual), 2021
-* IXt Workshop in Time Series Econometrics at Universidad de Zaragoza, Spain, 2019
+* **2022**
+  * The 37th meeting of the European Economic Association & the 74th European meeting of the Econometric Society, Milan, Italy; 2022 Asian Meeting of the Econometric Society in East and South-East Asia, Tokyo, Japan; 2022 Asian Meeting of the Econometric Society in China, Shenzhen, China; The 6th International Workshop on Financial Markets and Nonlinear Dynamics, Paris, France; ENTER Seminar at Tilburg University, Netherlands; XIIt Workshop in Time Series Econometrics at Universidad de Zaragoza, Spain; 15th RGS Doctoral Conference (Virtual), Germany;
+* **2021**
+  * DSE Winter School 2021 (Virtual, Delhi School of Economics joint with the Econometric Society), India; ENTER Jamboree Workshop (Virtual), Spain; Annual PhD Workshop in Econometrics at Universidad Carlos III de Madrid, Spain.
+* **2020**
+  * Annual PhD Workshop in Econometrics at Universidad Carlos III de Madrid, Spain.
+* **2019** 
+  * Annual PhD Workshop in Econometrics at Universidad Carlos III de Madrid, Spain; IXt Workshop in Time Series Econometrics at Universidad de Zaragoza, Spain.
+* **2018**
+  * Annual PhD Workshop in Econometrics at Universidad Carlos III de Madrid, Spain. 
 
   
 References
