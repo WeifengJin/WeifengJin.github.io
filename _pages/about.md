@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid. 
 
-I will be joining the Department of Econometrics, Statistics and Applied Economics at the School of
-Economics at Universitat de Barcelona as a postdoctoral researcher in September, 2022.    
+I am a postdoctoral researcher at the Department of Econometrics, Statistics and Applied Economics, Universitat de Barcelona since September, 2022.    
+
+I completed my Ph.D. in Economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid. 
 
 My research interest lies in time series econometrics.
  * Linear and non-linear, Gaussian and non-Gaussian time series
