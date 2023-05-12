@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV <a href="https://drive.google.com/file/d/1MBlVoo4fdeWeUiaBLJxBDllfJzv_ZP1Q/view?usp=sharing">here</a>.
+You can find my CV <a href="https://drive.google.com/file/d/1-3wGK4cIxQZJbJacNhNJfRi_MLwuDy79/view?usp=sharing">here</a>.
 
 
 Education
