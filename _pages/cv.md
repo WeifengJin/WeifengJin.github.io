@@ -48,7 +48,7 @@ References
   * Email: <a href="mailto:jean-michel.zakoian@ensae.fr">jean-michel.zakoian@ensae.fr</a>
 
 * Prof. Josep Lluís Carrion-i-Silvestre
-  * Department of Econometrics, Statistics, and Applied Economy
+  * Department of Econometrics, Statistics, and Applied Economics
   * Universitat de Barcelona
   * Email: <a href="mailto:carrion@ub.edu ">carrion@ub.edu</a>
   
