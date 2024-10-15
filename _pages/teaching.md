@@ -5,6 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+Lecturer at Universitat de Barcelona
+=====
+* Undergraduate
+  * Statistics I, 2023-2024
+  * Econometrics II, 2023-2024
+  * Business Econometrics, 2023-2024
+  * Forecasting Methods, 2023-2024
+
+
+
+
 Teaching Assistant at Universidad Carlos III de Madrid
 =====
 * Undergraduate
