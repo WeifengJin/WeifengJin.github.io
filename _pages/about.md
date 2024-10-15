@@ -12,7 +12,7 @@ I am currently working as a visiting professor at the Department of Econometrics
 
 I completed my Ph.D. in Economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid in April 2023. 
 
-My research interest lies in time series econometrics.
+My research interest lies in time series and financial econometrics.
  * Linear and non-linear, Gaussian and non-Gaussian time series
  * Quantile analysis
  * Forecasting 
