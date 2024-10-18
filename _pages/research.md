@@ -22,4 +22,4 @@ Working Papers
   **Working in progress**
   -----
  * Testing for Bubbles in the Presence of Instabilities, joint with Josep Lluís Carrion-i-Silvestre
- * A Quasi-likelihood Ratio Approach to Sequentially Detect Change-Point Under the General Heteroskedasticity
+ * The CUSUM Approach to Detect Change-Point in Time Series Models Under the General Heteroskedasticity
