@@ -17,6 +17,5 @@ My research interest lies in time series and financial econometrics.
  * Quantile analysis
  * Forecasting 
 
-I am on the job market in 2024-2025.
 
 You can find my CV <a href="https://drive.google.com/file/d/1lSQaFCq7XWpxEjDmQjz4YOmgTDX2bAg2/view?usp=sharing">here</a>.
