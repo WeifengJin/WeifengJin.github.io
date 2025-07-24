@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a visiting professor at the Department of Econometrics, Statistics, and Applied Economics, Universitat de Barcelona.    
+I am an assistant professor (tenure track) in the Department of Statistics at Instituto Tecnológico Autónomo de México (ITAM). Prior to that, I worked as a visiting professor at the Department of Econometrics, Statistics, and Applied Economics, Universitat de Barcelona, from 2023 to 2025.   
+
 
 I completed my Ph.D. in Economics under the supervision of <a href="http://economics.uc3m.es/personal/carlos-velasco/">Carlos Velasco</a> at Universidad Carlos III de Madrid in April 2023. 
 
