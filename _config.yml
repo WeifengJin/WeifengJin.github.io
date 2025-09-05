@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weifeng Jin"
 title_separator          : "-"
 name                     : &name "Weifeng Jin"
-description              : &description "Visiting professor in Economics at Universitat de Barcelona"
+description              : &description "Assistant professor in Statistics at Instituto Tecnologico Autonomo de Mexico"
 url                      : https://WeifengJin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WeifengJin.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weifeng Jin"
   avatar           : "profile.jpg"
-  bio              : "Visiting professor in Economics at Universitat de Barcelona"
-  location         : "Barcelona, Spain"
+  bio              : "Assistant professor in Statistics at Instituto Tecnologico Autonomo de Mexico"
+  location         : "CDMX, Mexico"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "weifengjin@ub.edu"
+  email            :  "weifeng.jin@itam.mx"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
