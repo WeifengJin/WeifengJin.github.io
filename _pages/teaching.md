@@ -6,13 +6,22 @@ author_profile: true
 ---
 
 
+Lecturer at Instituto Tecnológico Autónomo de México
+=====
+* Undergraduate
+  * Statistics I (EST 10101), 2025-2026
+  * Inferential Statistics (EST 11102), 2025-2026 -- <a href="https://drive.google.com/drive/folders/1S0Q_jbUX3oUuqtzzCH4kYg6cFRhiBSf9?usp=share_link"> Slides </a>
+
+
+
+
 Lecturer at Universitat de Barcelona
 =====
 * Undergraduate
-  * Statistics I, 2023-2024
-  * Econometrics II, 2023-2024
-  * Business Econometrics, 2023-2024
-  * Forecasting Methods, 2023-2024
+  * Statistics I, 2023-2025
+  * Econometrics II, 2023-2025
+  * Business Econometrics, 2023-2025
+  * Forecasting Methods, 2023-2025
 
 
 
